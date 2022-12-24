@@ -1,14 +1,14 @@
-# How to run the bot?
+# SkParser+
 
-If you do not have node.js installed you can install it from [here](https://nodejs.org).
+Hello, and welcome to the SkParser+ repository! This is a Discord bot which allows you to input Skript code and then parse it.
 
-First of all you need to install the required packages.
-- Run `npm init` in your terminal.
-- Run `npm install` in your terminal.
+## How does this bot work?
 
-And you can run the bot with the commands below.
-- `node .` to run the bot without deploying the commands.
-- `npm run deploy` to deploy the commands and run the bot
+As mentioned above,
+- You input Skript code
+- The bot sends your code to a Skript parsing server
+- Our parsing server returns the parsing results
 
-# Do not forget
-Put your bot token and client id (this is the same thing as the bot user id) in the **config.json** file.
+## How can I invite it?
+
+Soon, there will be an invite link available. I don't know when, but there will be one available.
